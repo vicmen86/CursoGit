@@ -1,0 +1,2 @@
+ESta es la historia de de victor, su estapas de aprendizaje
+1-iniciamos con git y terminal de comandos
