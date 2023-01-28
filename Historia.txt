@@ -1,3 +1,4 @@
 Esta es la historia de de victor, su etapa de aprendizaje.
 1-iniciamos con el curso git y terminal de comandos.
 2-Seguimos con el curso de golang.
+3-Primer back realizado
